@@ -1,5 +1,5 @@
 # PPIN
-Protein-Protein interaction network analysis pipelINE
+Protein-Protein interaction network analysis
 
 
 ##########################################################################################
