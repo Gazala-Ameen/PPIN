@@ -1,6 +1,7 @@
 # PPIN
 Protein-Protein interaction network analysis
-
+Developed by - Dr. Chrysafis Vogiatzis (cvogiatzis@ncat.edu)
+Project lead - Gazala Ameen (Gazala Ameen)
 
 ##########################################################################################
 ####################################### HOW TO RUN #######################################
